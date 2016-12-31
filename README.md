@@ -11,8 +11,11 @@ In general, the scholarship of Finnish banking history has paid attention mainly
 FILES INCLUDED
 
 -Bankregister.txt – Automatically read file, partly manually corrected, of the Bank Register (1909)
+
 -BankRegisterExample.jpg – An example page of the Bankmatrikel by A. Markkula (1909)
+
 -NordiskaPersonnel.txt – The personnel of the Nordisk Aktiebanken, from the index of the Bankmatrikel (1909), manually corrected
+
 -ParseNordiska.py – Python programme, which combines the data found in the Bankregister.txt to the personnel of the Nordiska Aktiebanken. The results are stored in a new file (Nordiska.csv), and the information is visualised.
 
 PROJECT DESCRIPTION
