@@ -2,6 +2,8 @@
 
 DH methods course project: the personnel of the Finnish Nordiska Aktiebanken in the early 20th century
 
+[![DOI](https://zenodo.org/badge/77734274.svg)](https://zenodo.org/badge/latestdoi/77734274)
+
 GENERAL
 
 This is a course project for the Methods in DH (HELDIG) and investigates the biographic information of the people working in the Finnish bank Nordiska Aktiebanken för Handel och Industri (NAB, founded in 1873) in the beginning of the 20th century. 
