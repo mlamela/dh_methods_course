@@ -26,8 +26,10 @@ ii) The python programme (ParseNordiska.py) picks data related to the personnel 
 
 USAGE (ParseNordiska.py)
 
--requires matplotlib.pyplot
+-requires matplotlib
+
 -place NordiskaPersonnel.txt and BankRegister.txt in the same folder
+
 -run: python ParseNordiska.py
 
 RESULTS AND FURTHER DEVELOPMENT
